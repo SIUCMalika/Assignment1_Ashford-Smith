@@ -6,6 +6,9 @@ public class proj {
 		int b=15;
 		double area= a*b;
 		System.out.println(area);
+		//Update this project
+				int triangleArea=1/2*a*b;
+				System.out.println(triangleArea);
 	}
 
 }
